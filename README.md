@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AMO3600
+- 👀 I’m interested in data and analytics and working on data related projects
+- 🌱 I’m currently working on developing my python skills and becoming more advanced in SQL, Tableau and PowerBI
+- 📫 How to reach me: Email: LinkedIn - https://www.linkedin.com/in/abdirahman-omar-721054171/
